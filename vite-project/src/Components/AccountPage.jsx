@@ -1,6 +1,7 @@
 import React from 'react'
 import img from '../Assets/vageta.jpg'
 
+//AccountPage is for Main Profile after Login/SignUp
 const AccountPage = () => {
   return (
     <div className='flex justify-center items-center'>

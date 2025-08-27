@@ -5,6 +5,7 @@ import SignUpPage from './Components/SignUpPage'
 import AccountPage from './Components/AccountPage'
 import {Route,Routes} from 'react-router-dom'
 
+//Routes for Pages
 const App = () => {
   return (
     <div>

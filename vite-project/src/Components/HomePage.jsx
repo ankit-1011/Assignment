@@ -2,6 +2,7 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom';
 
 
+//HomePage for get into Login/SignUp page
 const HomePage = () => {
 const navigate = useNavigate();
 
